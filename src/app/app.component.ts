@@ -10,6 +10,6 @@ import { ProfileComponent } from './profile/profile.component';
   styleUrls: ['./app.component.css'],
   providers: [GithubService]
 })
-export class AppComponent {
+export class  AppComponent {
   title = 'app';
 }
