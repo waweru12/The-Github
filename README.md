@@ -11,8 +11,9 @@ There are no known bugs.
 * CSS  
 * Bootstrap 
 * Typescript
-## Support and contact details
-if there are any issues,contact me through my email: "mitchndungu21@gmail.com"
+## contact details
+@0703956056
+email@ austinwaweru12@gmail.com
 
 ### BDD
 | Behavior        | Result |
