@@ -1,7 +1,15 @@
-import { Github.Service } from './github.service';
+import { TestBed, inject } from '@angular/core/testing';
 
-describe('Github.Service', () => {
-  it('should create an instance', () => {
-    expect(new Github.Service()).toBeTruthy();
+import { GithubService } from './github.service';
+
+describe('GithubService', () => {
+  beforeEach(() => {
+    TestBed.configureTestingModule({
+      providers: [GithubService]
+    });
   });
+
+  it('should be created', inject([GithubService], (service: GithubService) => {
+    expect(service).toBeTruthy();
+  }));
 });
