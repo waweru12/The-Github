@@ -5,12 +5,14 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { ProfileComponent } from './profile/profile.component';
+import { LighterDirective } from './lighter.directive';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     ProfileComponent,
+    LighterDirective,
   ],
   imports: [
     BrowserModule,

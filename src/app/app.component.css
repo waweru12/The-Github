@@ -1,3 +1,12 @@
+h3 {
+  font-size: 50px;
+  font: outline;
+  color: white;
+}
+
+
+
+
 .jumbotron {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -8,17 +17,9 @@
   }
   
   
-  h3 {
-    font-size: 50px;
-    font: outline;
-    color: white;
-  }
   
-  p {
-    font-size: 10px;
-    text-align: center;
-    color: orangered
-  }
+  
+ 
   
   body {
     background-position: center;
@@ -26,6 +27,10 @@
     background-color:black
   }
   
-  .container{
-    opacity: 0.85;
+  
+
+  p {
+    font-size: 10px;
+    text-align: center;
+    color: orangered
   }
