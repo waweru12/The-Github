@@ -3,10 +3,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 #### By **AUSTIN WAWERU**
 ## Description
 This in an app where on can serarch his or her github profile and all the details including the repositories and the time one joined.
-## Setup/Installation Requirements
-* git clone https://github.com/mitchnm/QUOTES.git
-* cd QUOTES
-* Open with your favourite text editor
+
 ## Known Bugs
 There are no known bugs.
 ## Technologies Used
