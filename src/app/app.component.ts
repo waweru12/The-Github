@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-
+import { GithubService } from './github.service';
 import { ProfileComponent } from './profile/profile.component';
 
 @Component({
