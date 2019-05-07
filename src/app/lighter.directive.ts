@@ -7,7 +7,7 @@ export class LighterDirective {
   constructor(private elem: ElementRef) { }
 
   @HostListener('mouseenter') onMouseEnter() {
-    this.highlight('grey');
+    this.highlight('#00CED1');
   }
 
   @HostListener('mouseleave') onMouseLeave() {
